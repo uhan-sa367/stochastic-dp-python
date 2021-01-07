@@ -12,6 +12,10 @@
     kbd {
         font-family: Lato, serif;
     }
+    hr {
+      border-width: 2px;
+      border-color: #a9a9a9;
+    }
     .cite {
         font-size: 85%;
         text-align: right;
